@@ -19,9 +19,9 @@
 ## 5. Напишіть SQL команду, за допомогою якої можна знайти кількість продуктів (рядків) та середню ціну (price) у кожного постачальника (supplier_id), та перевірте правильність її виконання в MySQL Workbench.
 
 
-!(p1.png)
-!(p1(2).png)
-!(p3.png)
-!(p4.png)
-!(p5.png)
+![alt text](p1.png)
+![alt text](p1(2).png)
+![alt text](p3.png)
+![alt text](p4.png)
+![alt text](p5.png)
  
